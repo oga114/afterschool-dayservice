@@ -202,7 +202,7 @@ export default function HomePage() {
               </p>
             </div>
             <div className="text-center p-6 bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-              <div className="w-16 h-16 bg--green-400  rounded-full flex items-center justify-center mx-auto mb-4">
+              <div className="w-16 h-16 bg-green-400  rounded-full flex items-center justify-center mx-auto mb-4">
                 <Clock className="w-8 h-8 text-white" />
               </div>
               <h4 className="font-semibold text-gray-800 mb-2">柔軟な対応</h4>
