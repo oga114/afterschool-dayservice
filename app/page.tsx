@@ -84,7 +84,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-green-200 to-yellow-200 rounded-3xl transform rotate-3"></div>
               <Image
-                src="/exsample-1.png"
+                src="exsample-1.png"
                 alt="子どもたちが楽しく遊んでいる様子"
                 width={600}
                 height={500}
